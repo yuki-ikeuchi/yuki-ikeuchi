@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... RaiseTech AWSコース受講
+- 🔭 I’m currently working on ... RaiseTech AWSコース受講(2024.4)
 
